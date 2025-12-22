@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "skillhelper"
+  site-url: "https://LA3D.github.io/skillhelper"
+  description: "Agent skill code for solveit"
+  repo-branch: main
+  repo-url: "https://github.com/LA3D/skillhelper"
